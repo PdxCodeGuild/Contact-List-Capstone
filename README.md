@@ -23,6 +23,10 @@ ContactListCapstone is a Django application for managing a list of contacts. It 
   - Edit contact
   - Delete contact
 
+
+![flow chart](diagrams/contact_list.png)
+
+
 ## Data Model
 
 **City**
